@@ -2496,7 +2496,7 @@ iof-core:System rdf:type owl:Class ;
 
 ###  https://w3id.org/AutoAM/WorCell
 <https://w3id.org/AutoAM/WorCell> rdf:type owl:Class ;
-                                  rdfs:subClassOf bfo:BFO_0000027 .
+                                  rdfs:subClassOf bfo:BFO_0000029 .
 
 
 ###  https://w3id.org/AutoAM/WorkStation
